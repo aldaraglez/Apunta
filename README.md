@@ -14,3 +14,8 @@ Para guardar cambios:
   git add nombreArchivoModificado
   git commit -a -m "mensaje"
   git push
+  
+  
+MUY IMPORTAAAAAAAANTEEEEEEEE!!!!!!!  Actualizar antes de modificar codigo
+
+  git pull
